@@ -18,5 +18,5 @@ extern "C" {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, drawing-wasm!");
+    alert("Hello, {{project-name}}!");
 }
