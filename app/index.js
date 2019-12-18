@@ -1,3 +1,3 @@
-import * as wasm from "drawing-wasm";
+import * as wasm from "{{project-name}}";
 
 wasm.greet();
